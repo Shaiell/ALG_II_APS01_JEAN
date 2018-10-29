@@ -1,0 +1,6 @@
+﻿  APS_01_ Atividade06.cpp
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade06\aps_01_ atividade06.cpp(38): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade06\aps_01_ atividade06.cpp(38): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade06\aps_01_ atividade06.cpp(38): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade06\aps_01_ atividade06.cpp(38): note: esse argumento é usado como um tamanho do buffer
+  APS_01_ Atividade06.vcxproj -> C:\Users\jclri\Desktop\Faculdade\Algoritmos de Programação II\ALG_II_APS01_JEAN\APS_01_ Atividade06\Debug\APS_01_ Atividade06.exe

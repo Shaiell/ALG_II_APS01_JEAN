@@ -1,0 +1,7 @@
+﻿  APS_01_ Atividade14.cpp
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade14\aps_01_ atividade14.cpp(122): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade14\aps_01_ atividade14.cpp(122): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade14\aps_01_ atividade14.cpp(122): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+  c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade14\aps_01_ atividade14.cpp(122): note: esse argumento é usado como um tamanho do buffer
+c:\users\jclri\desktop\faculdade\algoritmos de programação ii\alg_ii_aps01_jean\aps_01_ atividade14\aps_01_ atividade14.cpp(129): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  APS_01_ Atividade14.vcxproj -> C:\Users\jclri\Desktop\Faculdade\Algoritmos de Programação II\ALG_II_APS01_JEAN\APS_01_ Atividade14\Debug\APS_01_ Atividade14.exe
